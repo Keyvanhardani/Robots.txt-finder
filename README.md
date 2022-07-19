@@ -1,2 +1,1 @@
-# Robots.txt-finder
-Robots.txt Finder V1 by Keyvan Hardani
+# Robots.txt finder - a crawler for Robots.txt file
